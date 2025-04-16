@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Please enter a number:");
+﻿Console.Write("Please enter a number: ");
 
 int.TryParse(Console.ReadLine(), out int number);
 
